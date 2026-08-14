@@ -29,7 +29,7 @@ https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gMxhVcrT/ATN-NEWS-HD.png" group-title="Bangla",15.ATN News HD
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Bangla",16.Bijoy TV
-https://sm-monirul.top/@monirul_Islam_SM/play/bijoytv.m3u8
+https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",17.Somoy TV
 https://akash-by-hady.srhady.workers.dev/live/318.m3u8
 
@@ -72,7 +72,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xqhhGHXc/NEXUS-TELEVISION-HD.png" group-title="Bangla",‎NEXUS TV HD
 http://premiumtvs.space:80/live/PeH5kPWFfG/infamous7funny/411.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oe0pq1R.png" group-title="Bangla",36.Global HD
-https://sm-monirul.top/@monirul_Islam_SM/play/globaltv.m3u8
+https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/12/images.jpeg",Star News
 https://akash-by-hady.srhady.workers.dev/live/191.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Channel%201.png" group-title="Bangla",‎CHANNL 1HD
@@ -180,8 +180,7 @@ http://filex.me:8080/live/3114654477/5787654467/246763.ts
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63578
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://surl.lt/bynylo" group-title="Cartoon",98.Sony YAY
-https://sm-monirul.top/@monirul_Islam_SM/play/sonyyay.m3u8
-
+https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/khushboo-bangla.png" group-title="Cartoon",98.Khushboo Bangla
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Cartoon",102.Nick Bangla
