@@ -1,5 +1,6 @@
 #EXTM3U
-
+                       Bangla 
+                                 Bangla CHANNEL
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla",01.Bangladesh Television
 https://sm-monirul.top/@monirul_Islam_SM/akash/stream.php?id=btv&formet=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://surl.li/qwbwix" group-title="Bangla",02.BTV Chattogram
@@ -32,7 +33,6 @@ https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",17.Somoy TV
 https://akash-by-hady.srhady.workers.dev/live/318.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Bangla",18.Independent TV
 https://akash-by-hady.srhady.workers.dev/live/96.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/YF7rdS8f/MAASRANGA-TV-HD.png" group-title="Bangla",19.Maasranga HD
@@ -91,6 +91,9 @@ http://live.balajibroadband.com:3500/live/756.m3u8
 https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla",Jalsha Movies HD
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/425.ts
+
+                       India  CHANNEL
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/4_244.png" group-title="Hindi",46.Sony Entertainment HD
 https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/colors-hd.webp" group-title="Hindi",47.Colors HD
@@ -120,12 +123,17 @@ http://mpro4.site/live/47WLT1447U33ZKF/ZhyZ6hSSLj/1019876.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/India/SONY_wah.png" group-title="Hindi",SONY WAH
 http://live.balajibroadband.com:3500/live/1393.m3u8
 
+                       india CHANNEL
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://english.cdn.zeenews.com/static/public/updated_logos/bengali.svg" group-title=" India News TV ",.Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="	https://english.cdn.zeenews.com/images/logo/livetv/ZEE_NEWS.svg" group-title=" India News TV ",.Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.news18.com/dlxczavtqcctuei/news18/static/images/news18bengali-logo.svg" group-title=" India News TV ",.News 18 Bangla
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
+
+                        Documentary  CHANNEL
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary",68.Discovery HD 
 http://202.70.146.135:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/India/Historytv18.png" group-title="Documentary",64.HISTORY TV 18 HD
@@ -151,7 +159,6 @@ http://172.17.50.115:84/ant1001/tracks-v1a1/mono.m3u8
 http://monirul.bro.bd/sm/stream.php?id=a_sports_hd&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",84.Sony Ten 1 HD
 https://stream.ottplus.bd/live/ten_1_hd_abr/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",85.Sony Ten 2 HD
 https://stream.ottplus.bd/live/ten_2_hd_abr/index.m3u8
 http://live.balajibroadband.com:3500/live/891.m3u8
@@ -167,6 +174,9 @@ http://monirul.bro.bd/sm/stream.php?id=star_sports_select_2_hd&e=.m3u8
 https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="Sports",92. Willow Cricket HD
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=ptv_sports&format=.m3u8
+
+                        KIDS CHANNEL
+
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://go4.pw/ASIA/INDIA/CARTOON-NETWORK.png",Cartoon Network
 https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png" group-title="Cartoon",95.Cartoon Network  HD
@@ -175,10 +185,7 @@ http://mpro4.site/live/FXD03UUP3V9N1XV/5M8wU4832F/175131.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/NmBF00q.png" group-title="Cartoon",97.Disney Channel
 http://mpro4.site/live/FXD03UUP3V9N1XV/5M8wU4832F/117791.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/NmBF00q.png" group-title="Cartoon",98.Disney Channel HD
-http://filex.me:8080/live/3114654477/5787654467/246763.ts
-
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63578
-
+https://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63578
 #EXTINF:-1 tvg-id="" tvg-logo="https://surl.lt/bynylo" group-title="Cartoon",98.Sony YAY
 https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/khushboo-bangla.png" group-title="Cartoon",98.Khushboo Bangla
@@ -192,14 +199,15 @@ https://sm-monirul.top/sm/proxy.php?id=hungama&formet=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg" group-title="Cartoon",104.Pogo
 https://sm-monirul.top/@monirul_Islam_SM/play/pogo_sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/F8gQjJS.png" group-title="Cartoon",105.ZB Cartun TV
-http://103.151.61.12/zbcatun/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
+https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="Cartoon",105.Sonic Bangla
+http://live.balajibroadband.com:3500/live/1345.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",106.MTV HD
 http:\\dino2.123sat.net:80\play\live.php?mac=00:1A:79:75:4D:D2&stream=844258&extension=ts&play_token=ZR3FpHjk9E
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music",108.Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png" group-title="Movies",105.Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Goldmines_old_logo.jpg" group-title="Movies",105.Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdGIRO7NOcvDQg8Smhx_-mW_VMoYZpPjYj3JDOFS1Fp8D1pETNzxB6vLo&s=10" group-title="Movies",107.GOLDMINES BOLLYWOOD
