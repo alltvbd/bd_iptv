@@ -167,9 +167,9 @@ http://tvsen7.aynascope.net/sspts1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-2-hd.webp" group-title="Sports",88.Star Sports 2 HD
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-select-1-hd.webp" group-title="Sports",89.Star Sports Select 1 HD
-http://monirul.bro.bd/sm/stream.php?id=star_select_1_hd&e=.m3u8
+http://103.89.248.30:8082/Star-sports-select-1/embed.html?token=c52d6516a7e79fa33224fb44112b995542c5d6fc-4247f5bab148dc65ae32de5679e047f6-1786886940-1786876140&remote=no_check_ip
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-select-2-hd.webp" group-title="Sports",90.Star Sports Select 2 HD
-http://monirul.bro.bd/sm/stream.php?id=star_sports_select_2_hd&e=.m3u8
+http://103.89.248.10:8082/Star-sports-select-2/embed.html?token=516fece2440285f11979853eb3f0b79fda26a746-c3310d4158a9c13d595c222ff7798d10-1786887710-1786876910&remote=no_check_ip
 #EXTINF:-1 tvg-id="" tvg-logo="https://shorturl.at/biOoj" group-title="Sports",91.PTV Sports HD
 https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="Sports",92. Willow Cricket HD
