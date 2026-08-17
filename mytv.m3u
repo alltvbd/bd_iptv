@@ -2,9 +2,9 @@
                        Bangla 
                                  Bangla CHANNEL
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla",01.Bangladesh Television
-https://sm-monirul.top/@monirul_Islam_SM/akash/stream.php?id=btv&formet=.m3u8
+http://filex.me:8080/live/3114654477/5787654467/911138.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://surl.li/qwbwix" group-title="Bangla",02.BTV Chattogram
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=btv_ctg&format=.m3u8
+http://filex.me:8080/live/3114654477/5787654467/911137.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://surl.li/ruxmqt" group-title="Bangla",03.BTV News
 https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/atn-bangla-hd-bd.png" group-title="Bangla",04.ATN Bangla HD
@@ -90,7 +90,7 @@ http://live.balajibroadband.com:3500/live/756.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/W4Lh50kc/SONY-AATH-HD.png" group-title="Bangla",‎ ‎SONY ATTH
 https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla",Jalsha Movies HD
-http://103.89.248.30:8082/JALSHA-MOVIES/embed.html?token=a316df15c1dfd4888b0666b823128458b446a3c4-08b1f92487a9724dbc0dd789be5a858e-1786887098-1786876298&remote=no_check_ip
+http://filex.me:8080/live/3114654477/5787654467/955398.ts
 
                        India  CHANNEL
 
@@ -171,9 +171,9 @@ http://filex.me:8080/live/3114654477/5787654467/955663.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-select-2-hd.webp" group-title="Sports",90.Star Sports Select 2 HD
 http://filex.me:8080/live/3114654477/5787654467/955659.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://shorturl.at/biOoj" group-title="Sports",91.PTV Sports HD
-https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
+http://filex.me:8080/live/3114654477/5787654467/247170.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="Sports",92. Willow Cricket HD
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=ptv_sports&format=.m3u8
+https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
 
                         KIDS CHANNEL
 
@@ -184,25 +184,22 @@ https://sm-monirul.top/@monirul_Islam_SM/play/cartoon_network_hd.m3u8
 http://mpro4.site/live/FXD03UUP3V9N1XV/5M8wU4832F/175131.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/NmBF00q.png" group-title="Cartoon",97.Disney Channel
 http://mpro4.site/live/FXD03UUP3V9N1XV/5M8wU4832F/117791.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/NmBF00q.png" group-title="Cartoon",98.Disney Channel HD
-https://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63578
+#EXTINF:-1 tvg-id="" tvg-logo="https://shorturl.at/rx4HL" group-title="Cartoon",98.Disney Channel HD
+http://filex.me:8080/live/3114654477/5787654467/246763.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://surl.lt/bynylo" group-title="Cartoon",98.Sony YAY
 https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/khushboo-bangla.png" group-title="Cartoon",98.Khushboo Bangla
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Cartoon",102.Nick Bangla
 http://filex.me:8080/live/3114654477/5787654467/519972.ts
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/super-hungama.webp" group-title="Cartoon",104.Super Hungama
 http://filex.me:8080/live/3114654477/5787654467/499706.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/hungama-tv.webp" group-title="Cartoon",104.Hungama
 http://filex.me:8080/live/3114654477/5787654467/1389560.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg" group-title="Cartoon",104.Pogo
-https://sm-monirul.top/@monirul_Islam_SM/play/pogo_sd.m3u8
+http://filex.me:8080/live/3114654477/5787654467/320.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/F8gQjJS.png" group-title="Cartoon",105.ZB Cartun TV
 https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="Cartoon",105.Sonic Bangla
-http://live.balajibroadband.com:3500/live/1345.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",106.MTV HD
 http:\\dino2.123sat.net:80\play\live.php?mac=00:1A:79:75:4D:D2&stream=844258&extension=ts&play_token=ZR3FpHjk9E
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music",108.Sangeet Bangla
