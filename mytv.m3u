@@ -156,20 +156,20 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/ASIA/INDIA/T_Sports.png" group-title="Sports",83.T SPORTS HD 2
 http://172.17.50.115:84/ant1001/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/Mr87xG7/A-Sports-HD.jpg" group-title="Sports",83.A Sports
-http://monirul.bro.bd/sm/stream.php?id=a_sports_hd&e=.m3u8
+http://filex.me:8080/live/3114654477/5787654467/247168.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",84.Sony Ten 1 HD
 https://stream.ottplus.bd/live/ten_1_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",85.Sony Ten 2 HD
 https://stream.ottplus.bd/live/ten_2_hd_abr/index.m3u8
 http://live.balajibroadband.com:3500/live/891.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-2.webp" group-title="Sports",88.Star Sports 1 HD
-http://tvsen7.aynascope.net/sspts1/index.m3u8
+http://filex.me:8080/live/3114654477/5787654467/247159.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-2-hd.webp" group-title="Sports",88.Star Sports 2 HD
-https://tvsen7.aynaott.com/ssport2hd/index.m3u8
+http://filex.me:8080/live/3114654477/5787654467/955661.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-select-1-hd.webp" group-title="Sports",89.Star Sports Select 1 HD
-http://103.89.248.30:8082/Star-sports-select-1/embed.html?token=c52d6516a7e79fa33224fb44112b995542c5d6fc-4247f5bab148dc65ae32de5679e047f6-1786886940-1786876140&remote=no_check_ip
+http://filex.me:8080/live/3114654477/5787654467/955663.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-select-2-hd.webp" group-title="Sports",90.Star Sports Select 2 HD
-http://103.89.248.10:8082/Star-sports-select-2/embed.html?token=516fece2440285f11979853eb3f0b79fda26a746-c3310d4158a9c13d595c222ff7798d10-1786887710-1786876910&remote=no_check_ip
+http://filex.me:8080/live/3114654477/5787654467/955659.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://shorturl.at/biOoj" group-title="Sports",91.PTV Sports HD
 https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="Sports",92. Willow Cricket HD
@@ -191,11 +191,12 @@ https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/khushboo-bangla.png" group-title="Cartoon",98.Khushboo Bangla
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Cartoon",102.Nick Bangla
-http://live.balajibroadband.com:3500/live/1341.m3u8
+http://filex.me:8080/live/3114654477/5787654467/519972.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/super-hungama.webp" group-title="Cartoon",104.Super Hungama
 http://filex.me:8080/live/3114654477/5787654467/499706.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/hungama-tv.webp" group-title="Cartoon",104.Hungama
-https://sm-monirul.top/sm/proxy.php?id=hungama&formet=.m3u8
+http://filex.me:8080/live/3114654477/5787654467/1389560.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg" group-title="Cartoon",104.Pogo
 https://sm-monirul.top/@monirul_Islam_SM/play/pogo_sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/F8gQjJS.png" group-title="Cartoon",105.ZB Cartun TV
