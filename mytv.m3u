@@ -32,7 +32,7 @@ https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/atn_news/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Bangla",16.Bijoy TV
 https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",17.Somoy TV
-https://akash-by-hady.srhady.workers.dev/live/318.m3u8
+https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/somoy_tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Bangla",18.Independent TV
 https://akash-by-hady.srhady.workers.dev/live/96.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/YF7rdS8f/MAASRANGA-TV-HD.png" group-title="Bangla",19.Maasranga HD
@@ -42,7 +42,7 @@ https://akash-by-hady.srhady.workers.dev/live/188.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla",21.Channel 24 HD
 https://akash-by-hady.srhady.workers.dev/live/94.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2Lzhiq6.png" group-title="Bangla",22.GAZI TV HD
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",23.71 TV
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k2adSjA.png" group-title="Bangla",24.‎Asian TV
@@ -72,7 +72,7 @@ https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/ekhon_tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xqhhGHXc/NEXUS-TELEVISION-HD.png" group-title="Bangla",‎NEXUS TV HD
 https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/nexus_tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oe0pq1R.png" group-title="Bangla",36.Global HD
-https://go.skym3u.top/live/6db39/3b1f0d3d095a707375697d5f51465a6e76584250584c02335d52535a271d56245d113a3a6a32601859.m3u8?t=1735&s=bd4&id=ok4z.m3u
+https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/global_tv/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/12/images.jpeg",Star News
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Channel%201.png" group-title="Bangla",‎CHANNL 1HD
