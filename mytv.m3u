@@ -157,9 +157,9 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 http://172.17.50.115:84/ant1001/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/Mr87xG7/A-Sports-HD.jpg" group-title="Sports",83.A Sports
 http://filex.me:8080/live/3114654477/5787654467/247168.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",84.Sony Ten 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="Sports",84.Sony Ten 1 HD
 https://stream.ottplus.bd/live/ten_1_hd_abr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",85.Sony Ten 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="Sports",85.Sony Ten 2 HD
 https://stream.ottplus.bd/live/ten_2_hd_abr/index.m3u8
 http://live.balajibroadband.com:3500/live/891.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-2.webp" group-title="Sports",88.Star Sports 1 HD
