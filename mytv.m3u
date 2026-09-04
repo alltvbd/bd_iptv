@@ -135,9 +135,9 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
                    
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary",68.Discovery HD 
-https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=573
+http://202.70.146.135:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/India/Historytv18.png" group-title="Documentary",64.HISTORY TV 18 HD
-http:\\dino2.123sat.net:80\play\live.php?mac=00:1A:79:75:4D:D2&stream=281367&extension=ts&play_token=PaLz8YAhA3
+https://tvsen3.aynaott.com/np3JstRE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary",65.National Geographic HD Hindi
 http://mpro4.site/live/47WLT1447U33ZKF/ZhyZ6hSSLj/72220.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/euauPCp.png" group-title="Sports",72.Redbull TV
@@ -173,7 +173,7 @@ http://filex.me:8080/live/3114654477/5787654467/955659.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://shorturl.at/biOoj" group-title="Sports",91.PTV Sports HD
 http://filex.me:8080/live/3114654477/5787654467/247170.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="Sports",92. Willow Cricket HD
-https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
+https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8
 
                 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://go4.pw/ASIA/INDIA/CARTOON-NETWORK.png",Cartoon Network
@@ -192,7 +192,7 @@ https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Cartoon",102.Nick Bangla
 http://live.balajibroadband.com:3500/live/1341.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/super-hungama.webp" group-title="Cartoon",104.Super Hungama
-http://filex.me:8080/live/3114654477/5787654467/499706.ts
+http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/hungama-tv.webp" group-title="Cartoon",104.Hungama
 http://filex.me:8080/live/3114654477/5787654467/1389560.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg" group-title="Cartoon",104.Pogo
