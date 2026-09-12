@@ -70,7 +70,7 @@ https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tRrDh6z.png" group-title="Bangla",35.AKHON
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xqhhGHXc/NEXUS-TELEVISION-HD.png" group-title="Bangla",‎NEXUS TV HD
-https://sm-iptv.sm-monirul-islam-rs.workers.dev/aynaott/nexus_tv/index.m3u8
+https://cdn.devm3u.top/server1/nexus.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oe0pq1R.png" group-title="Bangla",36.Global HD
 http://116.204.149.16/globaltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/12/images.jpeg",Star News
@@ -115,7 +115,7 @@ http://mpro4.site/live/47WLT1447U33ZKF/ZhyZ6hSSLj/72141.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UNNcOef.png" group-title="Hindi",55.Shemaroo TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi",56.Zee Action
-http://103.175.73.12:8080/live/270/270_0.m3u8
+https://stream.ottplus.live/live/zee_action_abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",58.Zee Cinema HD
 https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi",59.Star Bharat HD
@@ -204,9 +204,9 @@ http:\\dino2.123sat.net:80\play\live.php?mac=00:1A:79:75:4D:D2&stream=844258&ext
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music",108.Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png" group-title="Movies",105.Goldmines
-https://cdn-2.pishow.tv/live/1459/master.m3u8
+https://cdn.devm3u.top/server1/goldmines.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Goldmines_old_logo.jpg" group-title="Movies",105.Goldmines Movies
-https://cdn-2.pishow.tv/live/1461/master.m3u8
+https://cdn.devm3u.top/server1/goldminesmovies.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdGIRO7NOcvDQg8Smhx_-mW_VMoYZpPjYj3JDOFS1Fp8D1pETNzxB6vLo&s=10" group-title="Movies",107.GOLDMINES BOLLYWOOD
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20250625T011531SQUARE.png" group-title="Movies",107.South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
