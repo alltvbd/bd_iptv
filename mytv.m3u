@@ -30,7 +30,7 @@ https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gMxhVcrT/ATN-NEWS-HD.png" group-title="Bangla",15.ATN News HD
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8?e=1784102557&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=11c7f2ed16c910de7308032faaf7a7ec
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Bangla",16.Bijoy TV
-https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
+https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",17.Somoy TV
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Bangla",18.Independent TV
@@ -38,7 +38,7 @@ https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chu
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/YF7rdS8f/MAASRANGA-TV-HD.png" group-title="Bangla",19.Maasranga HD
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangla",20.Channel 9 HD
-http://livetv.akr4m.com:8080/bdtv/restrem/16.m3u8
+https://tvsen6.aynaott.com/kajlsd57jnzxyo/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla",21.Channel 24 HD
 https://stream.ottplus.live/live/channel_24_abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2Lzhiq6.png" group-title="Bangla",22.GAZI TV HD
@@ -117,7 +117,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi",56.Zee Action
 https://stream.ottplus.live/live/zee_action_abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",58.Zee Cinema HD
-https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/index.m3u8
+https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi",59.Star Bharat HD
 http://mpro4.site/live/47WLT1447U33ZKF/ZhyZ6hSSLj/1019876.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/India/SONY_wah.png" group-title="Hindi",SONY WAH
@@ -158,18 +158,17 @@ http://172.17.50.115:84/ant1001/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/Mr87xG7/A-Sports-HD.jpg" group-title="Sports",83.A Sports
 http://filex.me:8080/live/3114654477/5787654467/247168.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="Sports",84.Sony Ten 1 HD
-https://stream.ottplus.bd/live/ten_1_hd_abr/index.m3u8
+https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="Sports",85.Sony Ten 2 HD
-https://stream.ottplus.bd/live/ten_2_hd_abr/index.m3u8
-http://live.balajibroadband.com:3500/live/891.m3u8
+https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-2.webp" group-title="Sports",88.Star Sports 1 HD
-http://filex.me:8080/live/3114654477/5787654467/247159.ts
+https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-2-hd.webp" group-title="Sports",88.Star Sports 2 HD
 http://filex.me:8080/live/3114654477/5787654467/955661.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-select-1-hd.webp" group-title="Sports",89.Star Sports Select 1 HD
 http://filex.me:8080/live/3114654477/5787654467/955663.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-select-2-hd.webp" group-title="Sports",90.Star Sports Select 2 HD
-http://filex.me:8080/live/3114654477/5787654467/955659.ts
+https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://shorturl.at/biOoj" group-title="Sports",91.PTV Sports HD
 http://filex.me:8080/live/3114654477/5787654467/247170.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="Sports",92. Willow Cricket HD
@@ -190,7 +189,7 @@ https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/khushboo-bangla.png" group-title="Cartoon",98.Khushboo Bangla
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Cartoon",102.Nick Bangla
-http://live.balajibroadband.com:3500/live/1341.m3u8
+http://198.195.239.50:8095/nick/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/super-hungama.webp" group-title="Cartoon",104.Super Hungama
 http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/hungama-tv.webp" group-title="Cartoon",104.Hungama
@@ -211,7 +210,7 @@ https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20250625T011531SQUARE.png" group-title="Movies",107.South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/colors-cineplex-hd.webp" group-title="Movies",107.Colors Cineplex HD
-http://66.102.126.10:8000/play/a076/index.m3u8
+http://202.70.146.135:8000/play/a04n/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.aynaott.com/storage/f4edcca7247bbb4a263a51d7ebb82282" group-title="Movies",107.Dhinchaak
 https://tvsen6.aynaott.com/Dhinchaak/tracks-v1a1/mono.ts.m3u8?e=1779283897&token=5754f86405785dc7f982d3a318f39f65&u=78be6644-0a65-48ec-81a4-089ac65a2619
 
