@@ -62,7 +62,7 @@ https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangla",31.Bangla TV
 https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",32.Duronto TV
-http://filex.me:8080/live/3114654477/5787654467/1369531.ts
+http://198.195.239.50:8095/duranta/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/87/Nagorik_TV_logo.png" group-title="Bangla",33.Nagorik tv
 https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangla",34.Ananda TV
@@ -152,11 +152,9 @@ http://103.175.73.12:8080/live/713/713_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English",78.Star Movies Select HD
  http://202.70.146.135:8000/play/a06q/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/ASIA/INDIA/T_Sports.png" group-title="Sports",83.T SPORTS HD
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/ASIA/INDIA/T_Sports.png" group-title="Sports",83.T SPORTS HD 2
-http://172.17.50.115:84/ant1001/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/T-SPORTS-HD/index.m3u8#M3U_World_4K
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/Mr87xG7/A-Sports-HD.jpg" group-title="Sports",83.A Sports
-http://filex.me:8080/live/3114654477/5787654467/247168.ts
+http://198.195.239.50:8095/A.SPORTS.HD/index.m3u8#M3U_World_4K
 #EXTINF:-1 tvg-id="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="Sports",84.Sony Ten 1 HD
 https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="Sports",85.Sony Ten 2 HD
@@ -164,13 +162,13 @@ https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-2.webp" group-title="Sports",88.Star Sports 1 HD
 https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-2-hd.webp" group-title="Sports",88.Star Sports 2 HD
-http://filex.me:8080/live/3114654477/5787654467/955661.ts
+http://198.195.239.50:8095/STAR.SPORTS2.HD/index.m3u8#M3U_World_4K
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-select-1-hd.webp" group-title="Sports",89.Star Sports Select 1 HD
-http://filex.me:8080/live/3114654477/5787654467/955663.ts
+http://198.195.239.50:8095/STAR.SPORTS-SEL1.HD/index.m3u8#M3U_World_4K
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-select-2-hd.webp" group-title="Sports",90.Star Sports Select 2 HD
 https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://shorturl.at/biOoj" group-title="Sports",91.PTV Sports HD
-http://filex.me:8080/live/3114654477/5787654467/247170.ts
+http://198.195.239.50:8095/PTV-SPORTS-HD/index.m3u8#M3U_World_4K
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="Sports",92. Willow Cricket HD
 https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8
 
@@ -178,7 +176,7 @@ https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://go4.pw/ASIA/INDIA/CARTOON-NETWORK.png",Cartoon Network
 https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://shorturl.at/bmjpA" group-title="Cartoon",95.Cartoon Network  HD
-http://filex.me:8080/live/3114654477/5787654467/5.ts
+http://198.195.239.50:8095/cartoonNetwork/index.m3u8#M3U_World_4K
 http://mpro4.site/live/FXD03UUP3V9N1XV/5M8wU4832F/175131.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/NmBF00q.png" group-title="Cartoon",97.Disney Channel
 http://filex.me:8080/live/3114654477/5787654467/499705.ts
