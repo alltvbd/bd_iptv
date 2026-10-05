@@ -97,19 +97,19 @@ https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/4_244.png" group-title="Hindi",46.Sony Entertainment HD
 https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/colors-hd.webp" group-title="Hindi",47.Colors HD
-http://202.70.146.135:8000/play/a00b/index.m3u8
+http://bosstv.click:8080/live/18012689/77561563/97479.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/33_247.png" group-title="Hindi",47.Sony Sab HD
  https://stream.ottplus.live/live/sub_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/India/SONY_PAL.png" group-title="Hindi",47.Sony Pal
 http://live.balajibroadband.com:3500/live/474.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi",48.Star Plus HD
-https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/62.m3u8
+http://bosstv.click:8080/live/18012689/77561563/97478.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",49.Zee TV HD
 http://mpro4.site/live/47WLT1447U33ZKF/ZhyZ6hSSLj/72135.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi",50.& Pictures SD
-http://mpro4.site/live/47WLT1447U33ZKF/ZhyZ6hSSLj/72165.ts
+http://bosstv.click:8080/live/18012689/77561563/97483.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/35_249.png" group-title="Hindi",52.Sony Max HD
-https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
+http://bosstv.click:8080/live/18012689/77561563/97487.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-gold-hd.webp" group-title="Hindi",54.Star Gold HD
 http://mpro4.site/live/47WLT1447U33ZKF/ZhyZ6hSSLj/72141.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UNNcOef.png" group-title="Hindi",55.Shemaroo TV
