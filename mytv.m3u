@@ -213,9 +213,9 @@ http://202.70.146.135:8000/play/a04n/index.m3u8#skym3u.dev
 https://tvsen6.aynaott.com/Dhinchaak/tracks-v1a1/mono.ts.m3u8?e=1779283897&token=5754f86405785dc7f982d3a318f39f65&u=78be6644-0a65-48ec-81a4-089ac65a2619
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj" group-title="Islamic",‎Saudi Quran
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pdPNPz8J/images.png" group-title="Islamic",‎Madina live
-http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/g03Jqxvn/sharjahtvquranlive.jpg" group-title="Islamic",Shquran Tv
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://aryqtv.tv/img/ary-qtv-logo.png" group-title="Islamic ", ARY Q TV
