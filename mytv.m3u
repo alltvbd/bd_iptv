@@ -111,7 +111,7 @@ http://bosstv.click:8080/live/18012689/77561563/97483.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/35_249.png" group-title="Hindi",52.Sony Max HD
 http://bosstv.click:8080/live/18012689/77561563/97487.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-gold-hd.webp" group-title="Hindi",54.Star Gold HD
-http://mpro4.site/live/47WLT1447U33ZKF/ZhyZ6hSSLj/72141.ts
+http://198.195.239.50:8095/STAR.GOLD.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UNNcOef.png" group-title="Hindi",55.Shemaroo TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi",56.Zee Action
@@ -119,7 +119,7 @@ https://stream.ottplus.live/live/zee_action_abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",58.Zee Cinema HD
 https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi",59.Star Bharat HD
-http://mpro4.site/live/47WLT1447U33ZKF/ZhyZ6hSSLj/1019876.ts
+http://198.195.239.50:8095/STAR.BHARAT.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/India/SONY_wah.png" group-title="Hindi",SONY WAH
 http://live.balajibroadband.com:3500/live/1393.m3u8
 
