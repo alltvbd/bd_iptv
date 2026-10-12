@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U 
                        
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla",01.Bangladesh Television
 https://btv.hridoytv-channel.workers.dev/btv.m3u8
@@ -127,9 +127,9 @@ http://live.balajibroadband.com:3500/live/1393.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/D0KSP0qB/Zee-24-Ghanta-2025-Logo-2025.webp" group-title=" India News TV ".Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="	https://english.cdn.zeenews.com/images/logo/livetv/ZEE_NEWS.svg" group-title=" India News TV ",.Zee News
+#EXTINF:-1 tvg-id="" tvg-logo="	https://shorturl.at/fFECa" group-title=" India News TV ",.Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.news18.com/dlxczavtqcctuei/news18/static/images/news18bengali-logo.svg" group-title=" India News TV ",.News 18 Bangla
+#EXTINF:-1 tvg-id="" tvg-logo="https://shorturl.at/R5CNn" group-title=" India News TV ",.News 18 Bangla
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 
                    
