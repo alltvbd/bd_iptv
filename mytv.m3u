@@ -116,7 +116,7 @@ http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h88Vwd-RYjQbJ-cqkeqI9-8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi",56.Zee Action
 https://stream.ottplus.live/live/zee_action_abr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=". https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzcZtadM4RSjBp7JZF49VWdOzCL8rWejgLKZ1spZvGk2-xKhc7TziwEjVK&s=10 " group-title="Hindi",58.Zee Cinema HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/zee-cinema-white.png " group-title="Hindi",58.Zee Cinema HD
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/275058.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/India/SONY_wah.png" group-title="Hindi",SONY WAH
 http://live.balajibroadband.com:3500/live/1393.m3u8
@@ -125,9 +125,9 @@ http://live.balajibroadband.com:3500/live/1393.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/D0KSP0qB/Zee-24-Ghanta-2025-Logo-2025.webp" group-title=" India News TV ".Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="	https://shorturl.at/fFECa" group-title=" India News TV ",.Zee News
+#EXTINF:-1 tvg-id="" tvg-logo="	https://lo1.in/ind/ZEE NEWS UP.png" group-title=" India News TV ",.Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shorturl.at/R5CNn" group-title=" India News TV ",.News 18 Bangla
+#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/ban/new1.png" group-title=" India News TV ",.News 18 Bangla
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 
                    
@@ -185,7 +185,10 @@ https://drk6xq0vhn.gpcdn.net/live/sony_yay_abr/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/khushboo-bangla.png" group-title="Cartoon",98.Khushboo Bangla
 https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Cartoon",102.Nick Bangla
-http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h8mW-NsTzyKt5adBiEMhkzw
+http://starhub.pro:80/live/atuljisgpr/sonuiptv/205.ts
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/super-hungama.webp" group-title="Cartoon",104.Super Hungama
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/123826.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/hungama-tv.webp" group-title="Cartoon",104.Hungama
@@ -195,9 +198,9 @@ http://filex.me:8080/live/03098001921RDB/03098001921RDB/320.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/F8gQjJS.png" group-title="Cartoon",105.ZB Cartun TV
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",106.MTV HD
-http:\\dino2.123sat.net:80\play\live.php?mac=00:1A:79:75:4D:D2&stream=844258&extension=ts&play_token=ZR3FpHjk9E
+http://starhub.pro:80/live/atuljisgpr/sonuiptv/4029.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music",108.Sangeet Bangla
-http://198.195.239.50:8095/sangeetBangla/index.m3u8#skym3u.dev
+http://mjxbtzkf.ngtdt.com/live/XENON31707U/7649755691/171471.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png" group-title="Movies",105.Goldmines
 https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Goldmines_old_logo.jpg" group-title="Movies",105.Goldmines Movies
@@ -208,8 +211,7 @@ https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/colors-cineplex-hd.webp" group-title="Movies",107.Colors Cineplex HD
 http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h0afj5-wDFVIeR4D2HICXwM
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.aynaott.com/storage/f4edcca7247bbb4a263a51d7ebb82282" group-title="Movies",107.Dhinchaak
-https://tvsen6.aynaohttps://tvsen6.aynaott.com/a2cKGQtB/index.m3u8?e=1784102597&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=18f202477e23fba0f1d6d5e94ac5c4f3
-
+http://starhub.pro:80/live/atuljisgpr/sonuiptv/4082.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj" group-title="Islamic",‎Saudi Quran
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/52112.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pdPNPz8J/images.png" group-title="Islamic",‎Madina live
