@@ -97,13 +97,13 @@ https://box.bbaria.net:8083/Jalsha_Movie/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/4_244.png" group-title="Hindi",46.Sony Entertainment HD
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/911285.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/colors-hd.webp" group-title="Hindi",47.Colors HD
-http://mjxbtzkf.ngtdt.com/live/XENON31707U/7649755691/33472.ts
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/911289.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/33_247.png" group-title="Hindi",47.Sony Sab HD
  http://filex.me:8080/live/03098001921RDB/03098001921RDB/911319.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/India/SONY_PAL.png" group-title="Hindi",47.Sony Pal
 http://live.balajibroadband.com:3500/live/474.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi",48.Star Plus HD
-http://mjxbtzkf.ngtdt.com/live/XENON31707U/7649755691/97524.ts
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/275037.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",49.Zee TV HD
 http://opplex.org:8080/live/73646760/39790110/221250.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi",50.& Pictures SD
@@ -133,7 +133,7 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
                    
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary",68.Discovery HD 
-http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h55R3V66zdEe5IT1wskSUbY
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/246733.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/India/Historytv18.png" group-title="Documentary",64.HISTORY TV 18 HD
 https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary",65.National Geographic HD Hindi
@@ -177,7 +177,7 @@ https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
 http://mpro4.site/live/FXD03UUP3V9N1XV/5M8wU4832F/175131.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/NmBF00q.png" group-title="Cartoon",97.Disney Channel
- http://mjxbtzkf.ngtdt.com/live/XENON31707U/7649755691/33490.ts
+ http://vca.easy747.com:80/live/0578694/1295K6K/117791.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://shorturl.at/rx4HL" group-title="Cartoon",98.Disney Channel HD
 http://opplex.org:8080/live/73646760/39790110/167551.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp" group-title="Cartoon",98.Sony YAY
@@ -185,12 +185,12 @@ https://drk6xq0vhn.gpcdn.net/live/sony_yay_abr/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/khushboo-bangla.png" group-title="Cartoon",98.Khushboo Bangla
 https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Cartoon",102.Nick Bangla
-http://starhub.pro:80/live/atuljisgpr/sonuiptv/205.ts
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/519972.ts
 
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/super-hungama.webp" group-title="Cartoon",104.Super Hungama
-http://starhub.pro:80/live/atuljisgpr/sonuiptv/66162.ts
+http://filex.me:8080/live/03098001921RDB/03098001921RDB/1389561.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/hungama-tv.webp" group-title="Cartoon",104.Hungama
 http://mjxbtzkf.ngtdt.com/live/XENON31707U/7649755691/1455352.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg" group-title="Cartoon",104.Pogo
