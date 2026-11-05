@@ -38,7 +38,7 @@ http://103.135.253.32:8080/Indipendent/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/YF7rdS8f/MAASRANGA-TV-HD.png" group-title="Bangla",19.Maasranga HD
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangla",20.Channel 9 HD
-http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY
+https://nkafmbewiff.gpcdn.net/tile_7/master.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla",21.Channel 24 HD
 https://stream.ottplus.live/live/channel_24_abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2Lzhiq6.png" group-title="Bangla",22.GAZI TV HD
@@ -107,7 +107,7 @@ http://filex.me:8080/live/03098001921RDB/03098001921RDB/275037.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",49.Zee TV HD
 http://opplex.org:8080/live/73646760/39790110/221250.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi",50.& Pictures SD
-http://bosstv.click:8080/live/18012689/77561563/97483.ts
+http://103.135.253.32:8080/PICTURE-HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/35_249.png" group-title="Hindi",52.Sony Max HD
 http://bosstv.click:8080/live/18012689/77561563/97487.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/59975785291.png " group-title="Hindi",54.Star Gold HD
@@ -158,9 +158,9 @@ http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h-5apqPjs1fh8FeKf74zWmI
 #EXTINF:-1 tvg-id="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="Sports",85.Sony Ten 2 HD
 http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h-dcvq-XfJ4ydiY6s7n7TcU
 #EXTINF:-1 tvg-id="" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png " group-title="Sports",88.Star Sports 1 HD
-https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
+https://starsportshindiii.pages.dev/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-2-hd.webp" group-title="Sports",88.Star Sports 2 HD
-https://tvsen7.aynaott.com/ssport2hd/index.m3u8
+https://tvsen7.aynaott.com/ssport2hd/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-select-1-hd.webp" group-title="Sports",89.Star Sports Select 1 HD
 http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h-w1b4vLdHaAoWAJu0IeXBU
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/star-sports-select-2-hd.webp" group-title="Sports",90.Star Sports Select 2 HD
