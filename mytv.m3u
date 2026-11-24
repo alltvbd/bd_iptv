@@ -141,12 +141,12 @@ http://filex.me:8080/live/03098001921RDB/03098001921RDB/246739.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/euauPCp.png" group-title="Sports",72.Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/34_252.png" group-title="English",73.Sony Pix HD
-http://opplex.org:8080/live/73646760/39790110/66224.ts
+http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/96663.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="English",75.Zee Cafe HD
 http://103.175.73.12:8080/live/713/713_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg" group-title="English",78.Star Movies HD
- http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h2P7KTis24YpbThIup8TRyg
+ http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/33618.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English",78.Star Movies Select HD
  http://103.114.11.37:8081/Star-movies-select/tracks-v1a1/mono.m3u8?token=dsgdfgsdfgasf
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/ASIA/INDIA/T_Sports.png" group-title="Sports",83.T SPORTS HD
@@ -634,7 +634,7 @@ http://filex.me:8080/live/03098001921RDB/03098001921RDB/519972.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/super-hungama.webp" group-title="Cartoon",104.Super Hungama
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/1389561.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/hungama-tv.webp" group-title="Cartoon",104.Hungama
-http://103.135.253.32:8080/HUNGAMA/index.m3u8#skym3u.dev
+http://vca.easy747.com:80/live/0578694/1295K6K/510267.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg" group-title="Cartoon",104.Pogo
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/320.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/F8gQjJS.png" group-title="Cartoon",105.ZB Cartun TV
