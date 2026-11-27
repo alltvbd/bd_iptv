@@ -34,13 +34,13 @@ https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",17.Somoy TV
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Bangla",18.Independent TV
-https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
+https://tvsen6.aynaott.com/Wef2Vj67njeYGDqQNFB9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/YF7rdS8f/MAASRANGA-TV-HD.png" group-title="Bangla",19.Maasranga HD
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangla",20.Channel 9 HD
 https://tvsen6.aynaott.com/kajlsd57jnzxyo/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla",21.Channel 24 HD
-https://stream.ottplus.live/live/channel_24_abr/index.m3u8
+https://tvsen6.aynaott.com/YrVDF8gujkdh/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2Lzhiq6.png" group-title="Bangla",22.GAZI TV HD
 https://app.ncare.live/live-orgin/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",23.71 TV
@@ -67,8 +67,8 @@ https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangla",34.Ananda TV
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tRrDh6z.png" group-title="Bangla",35.AKHON
-https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tRrDh6z.png" group-title="Bangla",35.EKHON
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xqhhGHXc/NEXUS-TELEVISION-HD.png" group-title="Bangla",‎NEXUS TV HD
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oe0pq1R.png" group-title="Bangla",36.Global HD
@@ -99,7 +99,7 @@ http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/colors-hd.webp" group-title="Hindi",47.Colors HD
 http://opplex.org:8080/live/73646760/39790110/66167.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/33_247.png" group-title="Hindi",47.Sony Sab HD
- http://filex.me:8080/live/03098001921RDB/03098001921RDB/911319.ts
+ http://vca.easy747.com:80/live/0578694/1295K6K/1020710.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/India/SONY_PAL.png" group-title="Hindi",47.Sony Pal
 http://live.balajibroadband.com:3500/live/474.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi",48.Star Plus HD
@@ -115,7 +115,7 @@ http://103.151.60.184:8000/play/btmz/index.m3u8?token=-dHbaV4P9kHxa72c
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UNNcOef.png" group-title="Hindi",55.Shemaroo TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi",56.Zee Action
-https://stream.ottplus.live/live/zee_action_abr/index.m3u8
+https://drk6xq0vhn.gpcdn.net/hls/zee_action_y1kb7mn3xd8vr5w_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/zee-cinema-white.png " group-title="Hindi",58.Zee Cinema HD
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/275058.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/India/SONY_wah.png" group-title="Hindi",SONY WAH
@@ -152,7 +152,7 @@ http://103.175.73.12:8080/live/713/713_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/ASIA/INDIA/T_Sports.png" group-title="Sports",83.T SPORTS HD
 http://103.151.60.184:8000/play/bsy8/index.m3u8?token=-dHbaV4P9kHxa72c
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/Mr87xG7/A-Sports-HD.jpg" group-title="Sports",83.A Sports
-http://filex.me:8080/live/03098001921RDB/03098001921RDB/247168.ts
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="Sports",84.Sony Ten 1 HD
 http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h-5apqPjs1fh8FeKf74zWmI
 #EXTINF:-1 tvg-id="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="Sports",85.Sony Ten 2 HD
@@ -213,9 +213,9 @@ http://markethelp1.com:80/live/sree1602/9196sree/867.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.aynaott.com/storage/f4edcca7247bbb4a263a51d7ebb82282" group-title="Movies",107.Dhinchaak
 http://starhub.pro:80/live/atuljisgpr/sonuiptv/4082.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj" group-title="Islamic",‎Saudi Quran
-http://opplex.org:8080/live/73646760/39790110/4.ts
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pdPNPz8J/images.png" group-title="Islamic",‎Madina live
-http://opplex.org:8080/live/73646760/39790110/26.ts
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/g03Jqxvn/sharjahtvquranlive.jpg" group-title="Islamic",Shquran Tv
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://aryqtv.tv/img/ary-qtv-logo.png" group-title="Islamic ", ARY Q TV
